@@ -14,7 +14,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de usar tecn
   - ![Reino Unido](https://flagcdn.com/24x18/gb.png) **Inglês** (Avançado)
   - ![Japão](https://flagcdn.com/24x18/jp.png) **Japonês** (Básico/Em estudo)
     
-- 💼 **Objetivo:** Buscando oportunidade de estágio na área de desenvolvimento ou dados (especialmente no setor bancário).
+- 💼 **Objetivo:** Buscando oportunidade na área de desenvolvimento ou dados (especialmente no setor bancário).
 
 ---
 
