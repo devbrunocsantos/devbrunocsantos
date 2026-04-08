@@ -2,7 +2,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de usar tecnologia para resolver problemas reais. Atualmente estou focado em desenvolver habilidades em Back-end e Automação.
 
-- 🔭 **Projetos Atuais:**
+- 🔭 **Projetos:**
   - [Binance Futures Trading Bot](https://github.com/devbrunocsantos/portifolio-trading-bot) (Python/AWS/Finanças)
   - [Organizador Financeiro](https://github.com/devbrunocsantos/organizador-financeiro) (Python/Web/Dados)
   - **App Mobile Android** para Google Play (Em desenvolvimento/Privado)
