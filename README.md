@@ -7,7 +7,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de usar tecn
   - [Organizador Financeiro](https://github.com/devbrunocsantos/organizador-financeiro) (Python/Web/Dados)
   - **App Mobile Android** para Google Play (Em desenvolvimento/Privado)
     
-- 🌱 **Estudando:** Python, C++, VBA e Lógica de Programação.
+- 🌱 **Estudando:**
+  - Python
+  - C++
+  - VBA
+  - Lógica de Programação.
   
 - 🎹 **Hobby:** Estudando piano nas horas vagas.
   
