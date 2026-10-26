@@ -1,33 +1,34 @@
-### Olá, eu sou o Bruno! 👋
+### Hi, I'm Bruno! 👋
 
-Sou estudante de **Ciência de Dados** e gosto de usar tecnologia para resolver problemas reais. Meu foco é Back-end e Análise de Dados, e também gosto muito de criar automações.
+I'm a **Data Science** student who enjoys using technology to solve real-world problems. My focus is Back-end development and Data Analysis, and I also love building automations.
 
-- 💼 **Atualmente:** trabalhando na **Embarca.ai**.
+- 💼 **Currently:** working at **Embarca.ai**.
 
-- 🧭 **Como eu programo:** desenvolvo com **Spec-Driven Development (SDD)** e o fluxo **RPI (Research → Plan → Implement)**: primeiro especifico e pesquiso, depois planejo e só então implemento, com testes automatizados validando cada etapa.
+- 🧭 **How I code:** I work with **Spec-Driven Development (SDD)** and the **RPI (Research → Plan → Implement)** workflow: I write the spec and do the research first, then plan, and only then implement, with automated tests validating every step.
 
-- 🔭 **Projetos:**
-  - [Binance Futures Trading Bot](https://github.com/devbrunocsantos/portifolio-trading-bot) (Python/AWS/Finanças): primeira versão do meu bot de trading algorítmico.
-  - **Trading Bot v2** (Privado): projeto novo, reescrito do zero com SDD e RPI. Tem arquitetura modular, mais de 200 testes automatizados, backtest e está em produção na AWS.
-  - [Organizador Financeiro](https://github.com/devbrunocsantos/organizador-financeiro) (Python/Web/Dados)
-  - **App Mobile Android** para Google Play (Em desenvolvimento/Privado): sendo construído com SDD e RPI.
+- 🔭 **Projects:**
+  - [Binance Futures Trading Bot](https://github.com/devbrunocsantos/portifolio-trading-bot) (Python/AWS/Finance): the first version of my algorithmic trading bot.
+  - **Trading Bot v2** (Private): a new project, rewritten from scratch with SDD and RPI. It features a modular architecture, 200+ automated tests, backtesting, and runs in production on AWS.
+  - [Organizador Financeiro](https://github.com/devbrunocsantos/organizador-financeiro) (Python/Web/Data): a personal finance organizer.
+  - **Android Mobile App** for Google Play (In development/Private): being built with SDD and RPI.
 
-- 🌱 **Estudando:**
+- 🌱 **Learning:**
   - Ruby
   - Ruby on Rails
-  - Ciência de Dados
+  - Data Science
 
-- 🎹 **Hobby:** Estudando piano nas horas vagas.
+- 🎹 **Hobby:** Learning piano in my free time.
 
-- 🌐 **Idiomas:**
-  - ![Reino Unido](https://flagcdn.com/24x18/gb.png) **Inglês** (Avançado/Fluente)
-  - ![Islândia](https://flagcdn.com/24x18/is.png) **Islandês** (Básico/Em estudo)
+- 🌐 **Languages:**
+  - ![Brazil](https://flagcdn.com/24x18/br.png) **Portuguese** (Native)
+  - ![United Kingdom](https://flagcdn.com/24x18/gb.png) **English** (Advanced/Fluent)
+  - ![Iceland](https://flagcdn.com/24x18/is.png) **Icelandic** (Beginner/Learning)
 
-- 🎯 **Interesses:** Back-end, Análise e Ciência de Dados e Automação de Processos.
+- 🎯 **Interests:** Back-end, Data Analysis & Data Science, and Process Automation.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
